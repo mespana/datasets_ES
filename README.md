@@ -1,9 +1,8 @@
-![](https://github.com/mespana/datasets_ES/blob/master/fotos_web/MuseoThyssenBornemisza_2020-12-02.png) # datasets_ES
+# datasets_ES
 
 ##  I.  112 RESEÑAS DE ARTE DEL MUSEO THYSSEN-BORNEMISZA
 
-
-
+![](https://github.com/mespana/datasets_ES/blob/master/fotos_web/MuseoThyssenBornemisza_2020-12-02.png) 
 
 
 A collection of nine sets of RAW textual data, in SPANISH language (8 "Recorridos Temáticos"), intended for RESEARCH & EDUCATIONAL purposes, specially TRAINING OF Text-mining, text-analytics technical skills: NLP, PCA, Corpus construction, Preprocessing of unstructured data (importing, encoding, and other commonly to raw textual data: cleaning, applying stopwords, stemming, data visualization, etc.).
